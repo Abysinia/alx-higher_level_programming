@@ -1,1 +1,1 @@
-print("C is fun!")
+print("best school")
